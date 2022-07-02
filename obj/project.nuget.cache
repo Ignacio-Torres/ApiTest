@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "i1ftuRFXq9T8hPiC0O5xLYrN4Igum0rcgRITs0q6UacWWmH6EL4hJXdIPZCz2WTP1QVUhD7A6e7PtTlDE1sWrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ignacio\\source\\repos\\APiTest\\APiTest\\APiTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ignacio\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ignacio\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.21.0\\microsoft.identitymodel.abstractions.6.21.0.nupkg.sha512",
+    "C:\\Users\\Ignacio\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.21.0\\microsoft.identitymodel.jsonwebtokens.6.21.0.nupkg.sha512",
+    "C:\\Users\\Ignacio\\.nuget\\packages\\microsoft.identitymodel.logging\\6.21.0\\microsoft.identitymodel.logging.6.21.0.nupkg.sha512",
+    "C:\\Users\\Ignacio\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.21.0\\microsoft.identitymodel.tokens.6.21.0.nupkg.sha512",
+    "C:\\Users\\Ignacio\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.21.0\\system.identitymodel.tokens.jwt.6.21.0.nupkg.sha512",
+    "C:\\Users\\Ignacio\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
